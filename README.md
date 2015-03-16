@@ -2,7 +2,7 @@ Meetup.com (is not a dating site but) is a site where people make interest group
 
 I grabbed data for a Meetup group called 20LetsHang, where the common interest is meeting people in their 20's around South Bay Area of Northern California.
 
-As part of 20LetsHang, I grabbed Meetup data showing the members who hosted events that newbies (first timers to a 20LetsHang event) attended. For example, if Person A attended a 20LetsHang event for the first time hosted by Person B, Person B would have Person A on Person B's list of newbies. <br>
+The aggregated data shows the members who hosted events that newbies (first timers to a 20LetsHang event) attended. For example, if Person A attended a 20LetsHang event for the first time hosted by Person B, Person B would have Person A on Person B's list of newbies. <br>
 
 I used the Meetup API to grab the data, igraph to create the underlying graph, and am in the process of installing Cairo to draw a graph showing the connections.
 
