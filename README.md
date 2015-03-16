@@ -1,4 +1,4 @@
-Meetup.com (is not a dating site but) is a site where people make interest groups and organize events for groups, and people who join the groups attend the events. <br>
+Meetup.com is a site where people make interest groups and organize events for groups, and people who join the groups attend the events. <br>
 
 I grabbed data for a Meetup group called 20LetsHang, where the common interest is meeting people in their 20's around South Bay Area of Northern California.
 
