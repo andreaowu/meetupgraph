@@ -1,11 +1,11 @@
-import urllib, urllib2
-import json
-import sys
-import re
-import time
-from igraph import *
 import cairo
+from igraph import *
+import json
 import operator
+import re
+import sys
+import time
+import urllib, urllib2
 
 api_key = "7b4d4b32c605d5f4a7a6484a77231d"
 root_url = "https://api.meetup.com/20LetsHang/events/"
@@ -95,10 +95,10 @@ def alphabatize():
     f.close()
     
 def drawGraph():
-    print sorted(vid.items(), key=operator.itemgetter(1))
     g.vs["label"] = g.vs["name"]
-    layout = g.layout_kamada_kawai()
-    plot(g, layout=layout)
+    g.vs["color"] = ["blue"]
+    layout = g.layout_fruchterman_reingold()
+    plot(g, layout=layout, bbox=(1500, 1500), margin=100, vertex_size=1)
     
 if  __name__ == '__main__':
     g = Graph()
