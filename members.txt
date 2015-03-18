@@ -1,4 +1,6 @@
-Total number of distinct attendees: 153
+Total number of distinct attendees: 160
+Total number of attendees who attended more than one event: 92
+Retention rate (# of attendees who attended more than one event / # of distinct attendees): 0.57
 
 Aaron Manley
 Aditya Jain
@@ -7,7 +9,7 @@ Alan
 Alec S-L
 Alex
 Amadeus
-Andrea (19): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, kiran kn, Louise, Steven Li, Chinmay, Lillian, Norman Lee, Maggie, Michael Su, Amadeus
+Andrea (25): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, kiran kn, Louise, Steven Li, Chinmay, Lillian, Norman Lee, Maggie, Michael Su, Amadeus, Cindy, Luke, Maharshi, Melanie, Ninad, Tuan
 Andrew Brook
 Arka
 Ava (4): Deepak, Jatin Pandey, Katelyn Smathers, Rohit
@@ -26,6 +28,7 @@ Cheryl
 Chinmay
 Chris
 Christine
+Cindy
 Connie
 Dan
 Daniel
@@ -45,6 +48,7 @@ Galen
 Gayatri
 Heidy Ortiz
 Henry (45): Kowshik, Marie, peter huynh, Jason Montplaisir, Mandy, Samantha, Will, Zaza, Former member, Jessica, Nathaniel Lehrer, Quynh, Subail Sunny, Tania Nunez, Brian, Jasmine Wu, Sam D, Bhushan Rayrikar, Gayatri, seojinpark, Ellen, Linda, Perry Yee, Rohit Anupala, Eria, Nir, Darren, Huong Dao, Joe, Dawn Michelle, Jay, Mengli Yang, Diana Tran, Madeline Sockell, Rai Herman Chin, Ritvij Gautam, Kate Chan, Daniel, Mich Win, Nat D, Brian Wul, Alec S-L, Kearny Chang, Lacie Jolene, Tung No De
+Herman
 Hoang Pham
 Honey Aung
 Huong Dao
@@ -73,12 +77,15 @@ Lawrence Tan
 Lillian
 Linda
 Louise
+Luke
 Madeline Sockell
 Maggie
+Maharshi
 Mandy
 Mariah
 Marie
 Matt Cheang
+Melanie
 Mengli Yang
 Miana
 Mich Win
@@ -88,6 +95,7 @@ Mikkel
 Nat D
 Nathaniel Lehrer
 Nicole Bahbout (9): Andrew Brook, Ava, Galen, Jared, Tony Dang, Wayne, Yeon Kyeong Oh, Alan, Pierre
+Ninad
 Nir
 Nityendra Singh
 Norman Lee
@@ -131,6 +139,7 @@ Taryn Kamita
 Thomas V.
 Tiffany Chen
 Tony Dang (6): Andrea, Heidy Ortiz, Jose Leiva, SeonGu Lee, William Lee, Tam Vo
+Tuan
 Tung No De
 Varun
 Veronica Galvan
@@ -150,6 +159,6 @@ Yeon Kyeong Oh
 Yi Mei
 Zaza
 kiran kn
-peter huynh (14): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Sam Little, Aaron Manley, Miana, Rosanna, Varun
+peter huynh (15): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Sam Little, Aaron Manley, Miana, Rosanna, Varun, Herman
 seojinpark
 victor
