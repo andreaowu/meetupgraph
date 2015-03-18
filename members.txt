@@ -1,0 +1,155 @@
+Total number of distinct attendees: 153
+
+Aaron Manley
+Aditya Jain
+Akshat Patel
+Alan
+Alec S-L
+Alex
+Amadeus
+Andrea (19): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, kiran kn, Louise, Steven Li, Chinmay, Lillian, Norman Lee, Maggie, Michael Su, Amadeus
+Andrew Brook
+Arka
+Ava (4): Deepak, Jatin Pandey, Katelyn Smathers, Rohit
+Balaji
+Ben
+Beth
+Bhushan Rayrikar (2): Prashant, Pratik
+Brandon Lee
+Brenna (5): Ben, Eric, Honey Aung, Larry, Lawrence Tan
+Breona
+Brian
+Brian Wul
+Casmay
+Cate Levey
+Cheryl
+Chinmay
+Chris
+Christine
+Connie
+Dan
+Daniel
+Daphne Tsou
+Darren
+David Su
+Dawn Michelle
+Deanna
+Deepak
+Diana Tran
+Dibyo Mukherjee
+Ellen (3): Alex, Casmay, Rahat Rahman
+Eria
+Eric
+Former member
+Galen
+Gayatri
+Heidy Ortiz
+Henry (45): Kowshik, Marie, peter huynh, Jason Montplaisir, Mandy, Samantha, Will, Zaza, Former member, Jessica, Nathaniel Lehrer, Quynh, Subail Sunny, Tania Nunez, Brian, Jasmine Wu, Sam D, Bhushan Rayrikar, Gayatri, seojinpark, Ellen, Linda, Perry Yee, Rohit Anupala, Eria, Nir, Darren, Huong Dao, Joe, Dawn Michelle, Jay, Mengli Yang, Diana Tran, Madeline Sockell, Rai Herman Chin, Ritvij Gautam, Kate Chan, Daniel, Mich Win, Nat D, Brian Wul, Alec S-L, Kearny Chang, Lacie Jolene, Tung No De
+Hoang Pham
+Honey Aung
+Huong Dao
+Isabelle S
+Isheeta
+J (1): Matt Cheang
+Jared
+Jasmine Wu
+Jason Montplaisir
+Jatin Pandey
+Jay
+Jessica (5): Breona, Isheeta, Sonia, Vivian Reed, Yadira Fortino
+Joe
+Jose
+Jose Leiva
+Kate Chan
+Katelyn Smathers
+Kearny Chang
+Keishia Chandran
+Kenny Lo
+Kimberly
+Kowshik
+Lacie Jolene
+Larry
+Lawrence Tan
+Lillian
+Linda
+Louise
+Madeline Sockell
+Maggie
+Mandy
+Mariah
+Marie
+Matt Cheang
+Mengli Yang
+Miana
+Mich Win
+Michael Chen
+Michael Su
+Mikkel
+Nat D
+Nathaniel Lehrer
+Nicole Bahbout (9): Andrew Brook, Ava, Galen, Jared, Tony Dang, Wayne, Yeon Kyeong Oh, Alan, Pierre
+Nir
+Nityendra Singh
+Norman Lee
+Paul Klein
+Paula Lucas
+Perry Yee
+Phyo
+Pierre (6): Balaji, Chris, Hoang Pham, Beth, Cate Levey, Viraj
+Prabhav Rathi
+Prashant
+Prathamesh Moulick
+Pratik
+Quynh
+Rahat Rahman
+Rai Herman Chin (1): Jose
+Raj
+Remi
+Ritvij Gautam
+Rohit
+Rohit Anupala
+Ronnie
+Rosanna
+Ruth
+Ryan
+Sam D (1): Phyo
+Sam Little
+Samantha
+Santosh Kalidindi
+Sean
+SeonGu Lee
+Siddharth Kishore
+Sonia
+Soujanya Gade
+Stephen
+Steven Li
+Subail Sunny (1): Mariah
+Tam Vo (3): Aditya Jain, Raj, Soujanya Gade
+Tania Nunez (6): Akshat Patel, Christine, Keishia Chandran, Kenny Lo, Remi, Tanuja
+Tanuja
+Taryn Kamita
+Thomas V.
+Tiffany Chen
+Tony Dang (6): Andrea, Heidy Ortiz, Jose Leiva, SeonGu Lee, William Lee, Tam Vo
+Tung No De
+Varun
+Veronica Galvan
+Vicki Cheung
+Victor Diep (18): Thomas V., Vicki Cheung, Stephen, Taryn Kamita, Cheryl, Connie, Arka, Nityendra Singh, Mikkel, Paul Klein, Prathamesh Moulick, Isabelle S, Paula Lucas, Wendy, Yareny, Yi Mei, Tiffany Chen, Whitney
+Vincent Ko
+Viraj
+Vivian Reed
+Wayne (1): Ronnie
+Wendy
+Whitney
+Will
+William Lee
+Yadira Fortino
+Yareny
+Yeon Kyeong Oh
+Yi Mei
+Zaza
+kiran kn
+peter huynh (14): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Sam Little, Aaron Manley, Miana, Rosanna, Varun
+seojinpark
+victor

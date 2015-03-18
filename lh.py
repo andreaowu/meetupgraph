@@ -72,6 +72,13 @@ def get_all_events():
 
                 index = get_attendance_for_event(i['id'], index)
 
+def number():
+    "Shows how many newbies each member got"
+    for key, value in attended.iteritems():
+        if len(value) > 0 and "(" not in key:
+            attended[key + " (" + str(len(value)) + ")"] = value
+            del attended[key]
+
 def alphabatize():
     "Alphabatizes the members and reformats into a readable file"
     dictlist = []
@@ -79,18 +86,14 @@ def alphabatize():
         temp = [key,value]
         dictlist.append(temp)
     dictlist.sort()
-    dictlist = re.sub("\],", "\n", str(dictlist))
     dictlist = re.sub("\', \[u\'", ": ", str(dictlist))
-    dictlist = re.sub("\']", "", str(dictlist))
-    dictlist = re.sub("\[u\'", "", str(dictlist))
-    dictlist = re.sub("\[\]", "", str(dictlist))
-    dictlist = re.sub("u\'", "", str(dictlist))
-    dictlist = re.sub("\'", "", str(dictlist))
-    dictlist = re.sub("\[", "", str(dictlist))
-    dictlist = re.sub(", \n", "\n", str(dictlist))
-    dictlist = re.sub(", ]]", "", str(dictlist))
-    f = open(time.strftime("%y%m%d") + "members.txt", "w")
-    f.write("Total number of members: " + str(len(vid.keys())) + "\n\n")
+    dictlist = re.sub("\', \[\]\], \[u\'", "\n", str(dictlist))
+    dictlist = re.sub("\'\]\], \[u\'", "\n", str(dictlist))
+    dictlist = re.sub("\', u\'", ", ", str(dictlist))
+    dictlist = re.sub("\', \[\]\]\]", "", str(dictlist))
+    dictlist = re.sub("\[\[u\'", "", str(dictlist))
+    f = open("members.txt", "w")
+    f.write("Total number of distinct attendees: " + str(len(vid.keys())) + "\n\n")
     f.write(str(dictlist))
     f.close()
     
@@ -98,10 +101,11 @@ def drawGraph():
     g.vs["label"] = g.vs["name"]
     g.vs["color"] = ["blue"]
     layout = g.layout_fruchterman_reingold()
-    plot(g, layout=layout, bbox=(1500, 1500), margin=100, vertex_size=1)
+    #plot(g, layout=layout, bbox=(1500, 1500), margin=100, vertex_size=1)
     
 if  __name__ == '__main__':
     g = Graph()
     get_all_events()
+    number()
     alphabatize()
     drawGraph()
