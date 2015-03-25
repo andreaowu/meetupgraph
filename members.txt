@@ -1,6 +1,4 @@
-Total number of distinct attendees: 160
-Total number of attendees who attended more than one event: 92
-Retention rate (# of attendees who attended more than one event / # of distinct attendees): 0.57
+Total number of distinct attendees: 180
 
 Aaron Manley
 Aditya Jain
@@ -8,9 +6,11 @@ Akshat Patel
 Alan
 Alec S-L
 Alex
+Alvin Siu
 Amadeus
-Andrea (25): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, kiran kn, Louise, Steven Li, Chinmay, Lillian, Norman Lee, Maggie, Michael Su, Amadeus, Cindy, Luke, Maharshi, Melanie, Ninad, Tuan
+Andrea (40): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, kiran kn, Louise, Steven Li, Chinmay, Lillian, Michael Wexler, Norman Lee, Maggie, Michael Su, Amadeus, Cindy, Luke, Maharshi, Melanie, Ninad, Tuan, Bryce Farnsworth, Jerry Lau, Kristin Sexton, Steve, Alvin Siu, Harish Shankar, Jeffrey, Pearl Chen, Richard, Vishnu Fafat, Suryaa, Tammie, eric, Tony Tran
 Andrew Brook
+Aria
 Arka
 Ava (4): Deepak, Jatin Pandey, Katelyn Smathers, Rohit
 Balaji
@@ -22,6 +22,7 @@ Brenna (5): Ben, Eric, Honey Aung, Larry, Lawrence Tan
 Breona
 Brian
 Brian Wul
+Bryce Farnsworth
 Casmay
 Cate Levey
 Cheryl
@@ -46,13 +47,14 @@ Eric
 Former member
 Galen
 Gayatri
+Harish Shankar
 Heidy Ortiz
 Henry (45): Kowshik, Marie, peter huynh, Jason Montplaisir, Mandy, Samantha, Will, Zaza, Former member, Jessica, Nathaniel Lehrer, Quynh, Subail Sunny, Tania Nunez, Brian, Jasmine Wu, Sam D, Bhushan Rayrikar, Gayatri, seojinpark, Ellen, Linda, Perry Yee, Rohit Anupala, Eria, Nir, Darren, Huong Dao, Joe, Dawn Michelle, Jay, Mengli Yang, Diana Tran, Madeline Sockell, Rai Herman Chin, Ritvij Gautam, Kate Chan, Daniel, Mich Win, Nat D, Brian Wul, Alec S-L, Kearny Chang, Lacie Jolene, Tung No De
 Herman
 Hoang Pham
 Honey Aung
 Huong Dao
-Isabelle S
+Isabelle
 Isheeta
 J (1): Matt Cheang
 Jared
@@ -60,6 +62,8 @@ Jasmine Wu
 Jason Montplaisir
 Jatin Pandey
 Jay
+Jeffrey
+Jerry Lau
 Jessica (5): Breona, Isheeta, Sonia, Vivian Reed, Yadira Fortino
 Joe
 Jose
@@ -71,6 +75,7 @@ Keishia Chandran
 Kenny Lo
 Kimberly
 Kowshik
+Kristin Sexton
 Lacie Jolene
 Larry
 Lawrence Tan
@@ -81,6 +86,7 @@ Luke
 Madeline Sockell
 Maggie
 Maharshi
+Mando Dong
 Mandy
 Mariah
 Marie
@@ -89,8 +95,10 @@ Melanie
 Mengli Yang
 Miana
 Mich Win
+Michael
 Michael Chen
 Michael Su
+Michael Wexler
 Mikkel
 Nat D
 Nathaniel Lehrer
@@ -101,6 +109,7 @@ Nityendra Singh
 Norman Lee
 Paul Klein
 Paula Lucas
+Pearl Chen
 Perry Yee
 Phyo
 Pierre (6): Balaji, Chris, Hoang Pham, Beth, Cate Levey, Viraj
@@ -113,11 +122,13 @@ Rahat Rahman
 Rai Herman Chin (1): Jose
 Raj
 Remi
+Richard
 Ritvij Gautam
 Rohit
 Rohit Anupala
 Ronnie
 Rosanna
+Rudy Patel
 Ruth
 Ryan
 Sam D (1): Phyo
@@ -126,27 +137,33 @@ Samantha
 Santosh Kalidindi
 Sean
 SeonGu Lee
+Shreyas
 Siddharth Kishore
 Sonia
 Soujanya Gade
 Stephen
+Steve
 Steven Li
 Subail Sunny (1): Mariah
+Suryaa
 Tam Vo (3): Aditya Jain, Raj, Soujanya Gade
+Tammie
 Tania Nunez (6): Akshat Patel, Christine, Keishia Chandran, Kenny Lo, Remi, Tanuja
 Tanuja
 Taryn Kamita
-Thomas V.
+Thomas V. (1): Michael
 Tiffany Chen
 Tony Dang (6): Andrea, Heidy Ortiz, Jose Leiva, SeonGu Lee, William Lee, Tam Vo
+Tony Tran
 Tuan
 Tung No De
 Varun
 Veronica Galvan
 Vicki Cheung
-Victor Diep (18): Thomas V., Vicki Cheung, Stephen, Taryn Kamita, Cheryl, Connie, Arka, Nityendra Singh, Mikkel, Paul Klein, Prathamesh Moulick, Isabelle S, Paula Lucas, Wendy, Yareny, Yi Mei, Tiffany Chen, Whitney
+Victor Diep (20): Thomas V., Vicki Cheung, Stephen, Taryn Kamita, Cheryl, Connie, Arka, Nityendra Singh, Mikkel, Paul Klein, Prathamesh Moulick, Isabelle, Paula Lucas, Wendy, Yareny, Yi Mei, Tiffany Chen, Whitney, Mando Dong, Shreyas
 Vincent Ko
 Viraj
+Vishnu Fafat
 Vivian Reed
 Wayne (1): Ronnie
 Wendy
@@ -158,7 +175,8 @@ Yareny
 Yeon Kyeong Oh
 Yi Mei
 Zaza
+eric
 kiran kn
-peter huynh (15): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Sam Little, Aaron Manley, Miana, Rosanna, Varun, Herman
+peter huynh (17): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Sam Little, Aaron Manley, Miana, Rosanna, Varun, Herman, Aria, Rudy Patel
 seojinpark
 victor
