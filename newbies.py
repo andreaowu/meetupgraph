@@ -9,13 +9,13 @@ import urllib, urllib2
 
 api_key = "7b4d4b32c605d5f4a7a6484a77231d"
 root_url = "https://api.meetup.com/20LetsHang/events/"
-index = 0
 keysign = "&key=" + api_key + "&sign=true"
 attendance_url = "/attendance?" + keysign
 event_host = dict() # maps event id to the host(s) id
 attended = dict() # maps people to who first timers they brought
 g = ""
 vid = dict()
+total = 0
 
 def get_attendance_for_event(uid, index):
     "Gets the people who attended for given id meetup event"
@@ -50,6 +50,8 @@ def get_all_events():
     all_events_url = "https://api.meetup.com/2/events?&photo-host=public&group_urlname=20LetsHang&fields=event_hosts,id&status=past" + keysign
     info = json.load(urllib.urlopen(all_events_url))
     for i in info['results']:
+        global total 
+        total += 1
         if "event_hosts" in i:
             for h in i['event_hosts']:
                 if i['id'] not in event_host:
@@ -92,8 +94,9 @@ def alphabatize():
     dictlist = re.sub("\', u\'", ", ", str(dictlist))
     dictlist = re.sub("\', \[\]\]\]", "", str(dictlist))
     dictlist = re.sub("\[\[u\'", "", str(dictlist))
-    f = open("members.txt", "w")
-    f.write("Total number of distinct attendees: " + str(len(vid.keys())) + "\n\n")
+    f = open("/Users/andreawu/Documents/meetupnewbies/members.txt", "w")
+    f.write("Total number of distinct attendees: " + str(len(vid.keys())) + "\n")
+    f.write("Total number of events: " + str(total) + "\n\n")
     f.write(str(dictlist))
     f.close()
     
@@ -101,7 +104,7 @@ def drawGraph():
     g.vs["label"] = g.vs["name"]
     g.vs["color"] = ["blue"]
     layout = g.layout_fruchterman_reingold()
-    #plot(g, layout=layout, bbox=(1500, 1500), margin=100, vertex_size=1)
+    plot(g, layout=layout, bbox=(1500, 1500), margin=100, vertex_size=1)
     
 if  __name__ == '__main__':
     g = Graph()
