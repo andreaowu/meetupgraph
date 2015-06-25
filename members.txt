@@ -1,7 +1,8 @@
-Total number of distinct attendees: 309
-Total number of events: 197
+Total number of distinct attendees: 311
+Total number of events: 200
 
-Aaron Manley (4): Audrey, Gabriel Dalalio, Hung Nguyen, Jimmy Doan
+Total number of distinct attendees who have been to more than 1 event: 66
+Attendees who have been to more than 1 event: [Henry, peter huynh, Zaza, Tania Nunez, Tony Dang, Ava, Nicole Bahbout, Jessica, Ellen, Brenna, Andrea, Pierre, Sam D, Subail Sunny, Bhushan Rayrikar, Victor Diep, Wayne, Jose Leiva, J, Rai Herman Chin, Tam Vo, Matt Cheang, Jay, Thomas V., Mando Dong, Eria, Rudy Patel, Casmay, Jasmine W, Diana, Benito, Jerry La, Varun, Norman Lee, Vishnu Fafat, Jason, Sandeep, Amadeus, Em, Yi Mei, Paula Lucas, Aaron Manley, Veronica Galvan, Mikkel, Nat D, Eric, Jackie, Rahat Rahman, Quynh, Kimberly, Melanie, Pratik, Erica Wong, Alvin Si, jordan, Brian, Tony Tran, Irene, Michael Wexler, Aria, Mitko Katsev, Yadira, Vinson, Brandon Lee, kevin, Cindy]Aaron Manley (4): Audrey, Gabriel Dalalio, Hung Nguyen, Jimmy Doan
 Aditya Jain
 Ahmed
 Aimee
@@ -15,7 +16,7 @@ Alvin Siu
 Amadeus
 Amy
 Ana Gutierrez
-Andrea (52): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, Louise, Steven Li, Chinmay, Lillian, Michael Wexler, Norman Lee, Maggie, Michael Su, Amadeus, Cindy, Luke, Maharshi, Melanie, Ninad, Tuan, Bryce Farnsworth, Jerry Lau, Kristin Sexton, Steve, Alvin Siu, Harish Shankar, Jeffrey, Pearl Chen, Richard, Vishnu Fafat, Suryaa, Tammie, eric, Tony Tran, Carter, Charles, Jenny, stephen, Annie, Em, Sandeep, Brian, kevin, Ahmed, Tracy, Vanessa, Venkata Aahlad Kancharla
+Andrea (51): Dan, Victor Diep, Brandon Lee, J, Veronica Galvan, Deanna, Vincent Ko, David Su, Prabhav Rathi, Ryan, Louise, Steven Li, Chinmay, Lillian, Michael Wexler, Norman Lee, Maggie, Michael Su, Amadeus, Cindy, Luke, Maharshi, Melanie, Ninad, Tuan, Bryce Farnsworth, Jerry Lau, Kristin Sexton, Steve, Alvin Siu, Harish Shankar, Jeffrey, Richard, Vishnu Fafat, Suryaa, Tammie, eric, Tony Tran, Carter, Charles, Jenny, stephen, Annie, Em, Sandeep, Brian, kevin, Ahmed, Tracy, Vanessa, Venkata Aahlad Kancharla
 Andres
 Andres Regalado
 Andrew
@@ -27,12 +28,13 @@ Aria
 Arka
 Ash Merin
 Ashish
+Ashish Attarde
 Audrey
 Ava (4): Deepak, Jatin Pandey, Katelyn Smathers, Rohit
 Balaji
 Ben
 Ben davey
-Beth
+Benito (1): Dan Do
 Bhushan Rayrikar (2): Prashant, Pratik
 Brandon Lee (1): Ganesh
 Brenna (9): Ben, Eric, Honey Aung, Larry, Lawrence Tan, Britt, Joey Ray Guillemin, Pawan, Thogori
@@ -43,6 +45,7 @@ Britt
 Brittany Ng
 Bruce Atkins
 Bryce Farnsworth
+Carrie Dao
 Carter
 Casmay (3): Michelle Avila B., Ray, Tamara
 Cate Levey
@@ -53,11 +56,12 @@ Chen
 Cheryl
 Chinmay
 Chris
-Christina H
+Christina
 Christine
 Cindy
 Claire
 Connie
+Craig Poppe
 Dan
 Dan Do
 Daniel
@@ -96,13 +100,11 @@ Harish Shankar
 Harry Clemente
 Heather
 Heidy Ortiz
-Henry (49): Kowshik, Marie, peter huynh, Former member, Mandy, Samantha, Will, Zaza, Jessica, Nathaniel Lehrer, Quynh, Subail Sunny, Tania Nunez, Jasmine Wu, Sam D, Bhushan Rayrikar, Gayatri, seojinpark, Ellen, Linda, Perry Yee, Rohit Anupala, Eria, Nir, Darren, Huong Dao, Joe, Dawn Michelle, Jay, Mengli Yang, Diana, Madeline Sockell, Rai Herman Chin, Ritvij Gautam, Kate Chan, Daniel, Mich Win, Nat D, Brian Wul, Alec S-L, Kearny Chang, Lacie Jolene, Tung No De, Katherine, Keerthi Raj, Nancy H, Raymond, Ryan Ploch, Karen
+Henry (49): Kowshik, Marie, peter huynh, Former member, Mandy, Samantha, Will, Zaza, Jessica, Nathaniel Lehrer, Quynh, Subail Sunny, Tania Nunez, Jasmine Wu, Sam D, Bhushan Rayrikar, Gayatri, seojinpark, Ellen, Linda, Perry Yee, Rohit Anupala, Eria, Nir, Carrie Dao, Darren, Joe, Dawn Michelle, Jay, Mengli Yang, Diana, Madeline Sockell, Rai Herman Chin, Ritvij Gautam, Kate Chan, Daniel, Mich Win, Nat D, Brian Wul, Alec S-L, Kearny Chang, Lacie Jolene, Tung No De, Katherine, Keerthi Raj, Nancy H, Raymond, Ryan Ploch, Karen
 Hing Huynh
 Hoang Pham
 Honey Aung
 Hung Nguyen
-Huong Dao
-Ilgiz Akhmetshin
 Irene
 Isabelle
 Isheeta
@@ -125,7 +127,6 @@ Jessica (6): Breona, Isheeta, Sonia, Vivian Reed, Yadira, jordan
 Jimmy Doan
 Joe
 Joey Ray Guillemin
-Jose (1): Dan Do
 Jose Leiva
 Joyce Lee
 Joyce Wu
@@ -141,7 +142,7 @@ Khanh Vuu
 Kieu Pham
 Kimberly (3): Andres, Mattea, Melissa
 Kiran
-Komal Khatija
+Komal
 Kowshik
 Krishna Kumaar Natarajan
 Kristin Sexton
@@ -153,7 +154,6 @@ Lillian
 Linda
 Lindsay
 Louise
-Luis Rios
 Luke
 Lyla McBeath Fujiwara
 Madeline Sockell
@@ -196,15 +196,15 @@ Nir
 Nityendra Singh
 Norman Lee (1): Doug
 Pankaj
+Paul
 Paul Klein
 Paula Lucas (1): Danny An
 Paulina Ma
 Pawan
-Pearl Chen
 Perry Yee
 Peter
 Phyo
-Pierre (7): Balaji, Chris, Hoang Pham, Beth, Cate Levey, Viraj, Lindsay
+Pierre (6): Balaji, Chris, Hoang Pham, Cate Levey, Viraj, Lindsay
 Prabhav Rathi
 Pranay Kothari
 Prashant
@@ -214,9 +214,10 @@ Priyanka Sinha
 Quynh (4): Egor Gryaznov, Leyla Aliyarova, Mitko Katsev, Paulina Ma
 Rachel Hultgren
 Rahat Rahman (4): David, Gerald, Rachel Hultgren, Shantharam Balasubramanian
-Rai Herman Chin (4): Jose, Nate Page, Heather, Michael Grande
+Rai Herman Chin (4): Benito, Nate Page, Heather, Michael Grande
 Raj
 Ray
+Rayah
 Raymond
 Raymond Chang
 Remi
@@ -226,7 +227,6 @@ Ritvij Gautam
 Rohit
 Rohit Anupala
 Ronnie
-Rosanna
 Rudy Patel (2): aliya, Jay Dholakia
 Ruth
 Ryan
@@ -234,6 +234,7 @@ Ryan Ploch
 Sam D (1): Phyo
 Samantha
 Sandeep
+Sandy
 Santosh Kalidindi
 Sarah
 Sarav
@@ -259,16 +260,17 @@ Suryaa
 Tam Vo (3): Aditya Jain, Raj, Soujanya Gade
 Tamara
 Tammie
-Tammy (4): Allen Ng, Komal Khatija, Sharath Chandra, Wenyi
+Tammy (4): Allen Ng, Komal, Sharath Chandra, Wenyi
 Tania Nunez (5): Akshat Patel, Christine, Keishia Chandran, Remi, Tanuja
 Tanuja
 Taryn Kamita
 Thogori
 Thomas V. (2): Michael, Sid Chakravarthy
 Tiffany Chen
+Tom Do
 Tony
 Tony Dang (10): Andrea, Heidy Ortiz, Jose Leiva, SeonGu Lee, William Lee, Tam Vo, Aimee, David Duong, Eric Funsten, Monali Dholakia
-Tony Tran (5): Frances Aguilo, Simmi, huangc10, Jazmine, Tony
+Tony Tran (7): Frances Aguilo, Simmi, huangc10, Jazmine, Tony, Craig Poppe, Paul
 Tory Smith
 Tracy
 Tracy Chen
@@ -281,11 +283,11 @@ Varun (1): Reza Khalfan
 Venkata Aahlad Kancharla
 Veronica Galvan (1): Charles Costa
 Vicki Cheung
-Victor Diep (45): Thomas V., Vicki Cheung, Stephen, Taryn Kamita, Cheryl, Connie, Arka, Nityendra Singh, Mikkel, Paul Klein, Prathamesh Moulick, Isabelle, Paula Lucas, Wendy, Yareny, Yi Mei, Tiffany Chen, Whitney, Mando Dong, Shreyas, daria323, Lyla McBeath Fujiwara, Stephanie Weff, Irene, Erica Wong, Kiran, Mayuresh, Pankaj, Sharan S, Bruce Atkins, Chen, Devarsh, Harry Clemente, Mayank Agarwal, Nikki David, Sarah, Tory Smith, Ali Young, Brittany Ng, Matthew Slipper, Neil Bhateja, Nicket Uttarwar, Vinson, Zhazil, Angela
+Victor Diep (49): Thomas V., Vicki Cheung, Stephen, Taryn Kamita, Cheryl, Connie, Arka, Nityendra Singh, Mikkel, Paul Klein, Prathamesh Moulick, Isabelle, Paula Lucas, Wendy, Yareny, Yi Mei, Tiffany Chen, Whitney, Mando Dong, Shreyas, daria323, Lyla McBeath Fujiwara, Stephanie Weff, Irene, Erica Wong, Kiran, Mayuresh, Pankaj, Sharan S, Bruce Atkins, Chen, Devarsh, Harry Clemente, Mayank Agarwal, Nikki David, Sarah, Tory Smith, Ali Young, Rayah, Brittany Ng, Matthew Slipper, Neil Bhateja, Nicket Uttarwar, Vinson, Zhazil, Angela, Ashish Attarde, Sandy, Tom Do
 Vincent Ko
 Vinson
 Viraj
-Vishnu Fafat (3): Christina H, Sarav, Ilgiz Akhmetshin
+Vishnu Fafat (3): Christina, Sarav, Zee
 Vivian Reed
 Wayne (2): Ronnie, Emily Moore
 Wendy
@@ -298,6 +300,7 @@ Yareny
 Yeon Kyeong Oh
 Yi Mei (1): Shalane Lee
 Zaza
+Zee
 Zhazil
 aliya
 daria323
@@ -305,7 +308,7 @@ eric
 huangc10
 jordan (2): Joyce Wu, Khanh Vuu
 kevin (1): Hing Huynh
-peter huynh (20): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Aaron Manley, Rosanna, Varun, Aria, Rudy Patel, Desmond, Julian Baumann, Luis Rios, Jeniffer Reyes, Trevor W, Andres Regalado
+peter huynh (18): Ruth, Daphne Tsou, Michael Chen, Dibyo Mukherjee, Santosh Kalidindi, victor, Sean, Siddharth Kishore, Kimberly, Aaron Manley, Varun, Aria, Rudy Patel, Desmond, Julian Baumann, Jeniffer Reyes, Trevor W, Andres Regalado
 seojinpark
 stephen
 victor

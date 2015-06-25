@@ -13,6 +13,7 @@ keysign = "&key=" + api_key + "&sign=true"
 attendance_url = "/attendance?" + keysign
 event_host = dict() # maps event id to the host(s) id
 attended = dict() # maps people to who first timers they brought
+morethanone = []
 g = ""
 vid = dict()
 total = 0
@@ -71,6 +72,9 @@ def get_all_events():
                     vid[h['member_name'].strip()] = index
                     index += 1
                     attended[h['member_name'].strip()] = []
+                else:
+                    if h['member_name'].strip() not in morethanone:
+                        morethanone.append(h['member_name'].strip())
 
                 index = get_attendance_for_event(i['id'], index)
 
@@ -97,6 +101,11 @@ def alphabatize():
     f = open("/Users/andreawu/Documents/meetupnewbies/members.txt", "w")
     f.write("Total number of distinct attendees: " + str(len(vid.keys())) + "\n")
     f.write("Total number of events: " + str(total) + "\n\n")
+    f.write("Total number of distinct attendees who have been to more than 1 event: " \
+        + str(len(morethanone)) + "\n")
+    morethanone_str = re.sub("u\'", "\'", str(morethanone))
+    morethanone_str = re.sub("\'", "", morethanone_str)
+    f.write("Attendees who have been to more than 1 event: " + morethanone_str)
     f.write(str(dictlist))
     f.close()
     
